@@ -1,0 +1,24 @@
+student={
+    "name":"Akshansh Gupta",
+    "age":17,
+    "Score":{
+        "phy":87,
+        "chem":89,
+        "maths":90
+    }
+}
+print(student.keys())
+print(student.values())
+print(student.items())
+print(student.get("age"))
+new_student={
+    "name":"xyz",
+    "age":18,
+    "score":{
+        "phy":98,
+        "chem":97,
+        "math":98
+    }
+}
+student.update(new_student)
+print(student)
