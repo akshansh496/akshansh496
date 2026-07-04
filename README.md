@@ -1,24 +1,24 @@
-# <h1 align="center">Hi 👋, I'm Akshansh Gupta</h1>
+<h1 align="center">Hi 👋, I'm Akshansh Gupta</h1>
 
 <h3 align="center">
 🚀 Software Developer • Competitive Programmer • AI Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;AI+Enthusiast;Always+Learning+New+Technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Competitive+Programmer;AI+Enthusiast;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Third-year Computer Science student
-* 💻 Passionate about Software Development, AI, and Full-Stack Development
-* 🌱 Currently learning **MERN Stack, Machine Learning, and System Design**
-* 🚀 Building an **AI-powered E-Waste Management Platform**
-* 🧩 Regular **LeetCode** and **Codeforces** problem solver
-* 🤝 Open to collaborating on Open Source and impactful projects
-* ⚡ I enjoy solving challenging problems and building products that create real-world impact.
+- 🎓 Third-year Computer Science student
+- 💻 Passionate about Software Development, AI, and Full-Stack Development
+- 🌱 Currently learning **MERN Stack, Machine Learning, and System Design**
+- 🚀 Building an **AI-powered E-Waste Management Platform**
+- 🧩 Regular **LeetCode** and **Codeforces** problem solver
+- 🤝 Open to collaborating on Open Source and impactful projects
+- ⚡ I love solving real-world problems through technology.
 
 ---
 
@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://linkedin.com/in/akshansh-gupta496" target="_blank">
+<a href="https://www.linkedin.com/in/akshansh-gupta496/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
@@ -54,7 +54,7 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,bootstrap,tailwind" />
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,anaconda" />
@@ -62,38 +62,38 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### ♻️ AI-Powered E-Waste Management Platform
 
-* 📱 Mobile phone health diagnostics
-* 🤖 AI-based defect detection
-* 💰 Resale value estimation
-* 🚚 Smart pickup & recycling workflow
+- 📱 Mobile Phone Health Diagnostics
+- 🤖 AI-based Defect Detection
+- 💰 Resale Value Estimation
+- 🚚 Smart Recycling Workflow
 
 ### 🏠 Airbnb Clone (MERN)
 
-* Authentication
-* Property Listings
-* Reviews
-* Booking System
-* Maps Integration
+- Authentication
+- Property Listings
+- Booking System
+- Reviews
+- Maps Integration
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshansh496&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshansh496&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshansh496&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=akshansh496&theme=tokyonight&hide_border=true"/>
@@ -101,28 +101,32 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 💡 Currently Learning
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akshansh496&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshansh496&theme=tokyo-night"/>
-</p>
+- MERN Stack
+- Machine Learning
+- System Design
+- Data Structures & Algorithms
+- AI Applications
 
 ---
 
-## 💡 Quote
+# 📫 Reach Me
+
+📧 **Email:** guptaakshansh1@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/akshansh-gupta496/
+
+🐙 **GitHub:** https://github.com/akshansh496
+
+---
+
+# 💭 Quote
 
 > *"Code. Learn. Build. Repeat."* 🚀
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshansh496&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=akshansh496&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
