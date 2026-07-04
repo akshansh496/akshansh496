@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="linkedin.com/in/akshansh-gupta496" target="_blank">
+<a href="https://linkedin.com/in/akshansh-gupta496" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -85,7 +85,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akshansh496&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshansh496&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshansh496&layout=compact&theme=tokyonight&hide_border=true"/>
 
