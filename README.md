@@ -29,11 +29,11 @@
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="linkedin.com/in/akshansh-gupta496" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:guptaakshansh1@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 </p>
