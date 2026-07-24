@@ -64,12 +64,7 @@
 
 # 🚀 Featured Projects
 
-### ♻️ AI-Powered E-Waste Management Platform
 
-- 📱 Mobile Phone Health Diagnostics
-- 🤖 AI-based Defect Detection
-- 💰 Resale Value Estimation
-- 🚚 Smart Recycling Workflow
 
 ### 🏠 Airbnb Clone (MERN)
 
