@@ -12,13 +12,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-year Computer Science student
-- 💻 Passionate about Software Development, AI, and Full-Stack Development
-- 🌱 Currently learning **MERN Stack, Machine Learning, and System Design**
-- 🚀 Building an **AI-powered E-Waste Management Platform**
-- 🧩 Regular **LeetCode** and **Codeforces** problem solver
-- 🤝 Open to collaborating on Open Source and impactful projects
-- ⚡ I love solving real-world problems through technology.
+-  Third-year Computer Science student
+-  Passionate about Software Development, AI, and Full-Stack Development
+-  Currently learning **MERN Stack, Machine Learning, and System Design**
+-  Regular **LeetCode** and **Codeforces** problem solver
+-  Open to collaborating on Open Source and impactful projects
+-  I love solving real-world problems through technology.
 
 ---
 
