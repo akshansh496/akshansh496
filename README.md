@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshansh Gupta</h1>
 
 <h3 align="center">
-🚀 Software Developer • Competitive Programmer • AI Enthusiast
+🚀 Software Developer • Competitive Programmer 
 </h3>
 
 <p align="center">
